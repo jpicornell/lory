@@ -43,7 +43,7 @@ export default {
  * (optional) define here the style definitions which should be applied on the slider container
  * e.g. width including further controls like arrows etc.
  */
-.slider {
+.slider { }
 
   .frame {
     /**
@@ -104,5 +104,4 @@ export default {
       margin-right: 10px;
     }
   }
-}
 </style>
