@@ -38,7 +38,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 /**
  * (optional) define here the style definitions which should be applied on the slider container
  * e.g. width including further controls like arrows etc.
