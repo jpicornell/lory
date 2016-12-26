@@ -95,13 +95,9 @@ export default {
     left: 0;
   }
 
-  .next svg, .prev svg {
-    width: 25px;
-  }
-
-  &.js_rewind {
-    .frame li {
-      margin-right: 10px;
+  .next, .prev {
+    svg {
+      width: 25px;
     }
   }
 </style>
