@@ -43,7 +43,8 @@ export default {
  * (optional) define here the style definitions which should be applied on the slider container
  * e.g. width including further controls like arrows etc.
  */
-.slider { }
+.slider {
+  position: relative;
 
   .frame {
     /**
@@ -100,4 +101,5 @@ export default {
       width: 25px;
     }
   }
+}
 </style>
