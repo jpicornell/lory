@@ -72,12 +72,6 @@ export default {
      * (optional) if the content inside the slide element has a defined size.
      */
     width: 100%;
-
-    position: relative;
-    display: inline-block;
-    text-align: center;
-    font-size: 15px;
-    line-height: 30px;
   }
 
   .prev, .next {
